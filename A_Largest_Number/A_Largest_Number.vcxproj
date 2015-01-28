@@ -11,10 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}</ProjectGuid>
+    <ProjectGuid>{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Leetcode</RootNamespace>
-    <ProjectName>A_Largest_Number</ProjectName>
+    <RootNamespace>A_Largest_Number</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -84,7 +83,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Largest_Number.cpp" />
+    <ClCompile Include="A_Largest_Number.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
