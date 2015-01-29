@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_Largest_Number", "Leetcode\Leetcode.vcxproj", "{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_Dungeon_Game", "A_Dungeon_Game\A_Dungeon_Game.vcxproj", "{BEE6BCB4-610C-4632-9FC6-D796BAFA5140}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A_Largest_Number", "A_Largest_Number\A_Largest_Number.vcxproj", "{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}.Debug|Win32.Build.0 = Debug|Win32
-		{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}.Release|Win32.ActiveCfg = Release|Win32
-		{A203DE5D-6749-429E-B6DD-44C2A8EFB6A9}.Release|Win32.Build.0 = Release|Win32
 		{BEE6BCB4-610C-4632-9FC6-D796BAFA5140}.Debug|Win32.ActiveCfg = Debug|Win32
 		{BEE6BCB4-610C-4632-9FC6-D796BAFA5140}.Debug|Win32.Build.0 = Debug|Win32
 		{BEE6BCB4-610C-4632-9FC6-D796BAFA5140}.Release|Win32.ActiveCfg = Release|Win32
 		{BEE6BCB4-610C-4632-9FC6-D796BAFA5140}.Release|Win32.Build.0 = Release|Win32
+		{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}.Debug|Win32.Build.0 = Debug|Win32
+		{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}.Release|Win32.ActiveCfg = Release|Win32
+		{0E6EEDEF-DAA5-4D94-B135-A0623E76DA15}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
